@@ -1,3 +1,15 @@
-###Hello!
+# Hello there!
 
-#I'm just a simple dude who's into basic web programming-
+### What I specialize in:
+
+</ HTML>
+
+.style {CSS}
+
+document.getElementById("Javascript");
+
+print("Python")
+
+
+### Hello world!
+### I hope you enjoy my projects!
