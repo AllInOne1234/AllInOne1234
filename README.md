@@ -10,7 +10,7 @@ document.getElementById("Javascript");
 print("Python")
 
 
-#### I hope you enjoy my projects! ALL PROJECTS ARE MALWARE FREE UNLESS SPECIFIED IN THE README FILE OR IN DESCRIPTION.
+#### I hope you enjoy my projects! ALL PROJECTS ARE MALWARE FREE UNLESS SPECIFIED IN THE README.md FILE OR IN DESCRIPTION.
 
 ### Currently Working On (Priority Top to Bottom):
 
