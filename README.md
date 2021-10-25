@@ -5,8 +5,6 @@
 
 .style {CSS}
 
-document.getElementById("Javascript");
-
 print("Python")
 
 
