@@ -12,4 +12,6 @@
 
 ### Currently Working On (Priority Top to Bottom):
 
- - Windows Poo, the HTML copycat of a pretty bad windows system.
+ - Python Stuff
+ - Search It!
+ - Take Back
